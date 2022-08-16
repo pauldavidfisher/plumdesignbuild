@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([url](https://guides.github.com/features/mastering-markdown/) and ![Image](src)
+[Link]([url](https://guides.github.com/features/mastering-markdown/) and ![Image](https://flic.kr/p/2nEBQFc)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://flic.kr/p/2nEBQFc)
 ```
 ## Skins (color variations)
 
