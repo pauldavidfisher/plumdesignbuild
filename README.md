@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([url](https://guides.github.com/features/mastering-markdown/) and ![Image](https://flic.kr/p/2nEBQFc)
+[Link]([url](https://guides.github.com/features/mastering-markdown/) and [![Image](https://flic.kr/p/2nEBQFc)]
 
 ![This is an image](https://flic.kr/p/2nEBQFc)
 ```
