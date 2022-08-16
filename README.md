@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link]([url](https://guides.github.com/features/mastering-markdown/) and ![Image](src)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ```
