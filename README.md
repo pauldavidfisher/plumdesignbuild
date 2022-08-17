@@ -57,4 +57,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="42" width="174"></a>
 
-<a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png" alt="Buy Me A Coffee" height="42" width="174"></a>
+<a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png" alt="Buy Me A Coffee"></a>
