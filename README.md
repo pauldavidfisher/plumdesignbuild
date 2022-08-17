@@ -59,4 +59,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png" alt="Buy Me A Coffee"></a>
 
+Looking for some nice city views? This hidden pool/bar/restaurant will give you some of the best! Check out the Piscina Municipal de Montjuic. Arrive early because the lines can be long. Grab yourself a drink at the bar or stay for dinner at the restaurant just next door. #piscinas #barcelona #montjuic
+— at Piscina Municipal Montjuïc.
+
 <a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://live.staticflickr.com/65535/52285725611_b7297ec075_k.jpg" alt="Buy Me A Coffee"></a>
