@@ -59,4 +59,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png" alt="Buy Me A Coffee"></a>
 
-<a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://flic.kr/p/2nEj1BM" alt="Buy Me A Coffee"></a>
+<a href="https://buymeacoffee.com/manid2" target="_blank"><img src="https://live.staticflickr.com/65535/52285725611_b7297ec075_k.jpg" alt="Buy Me A Coffee"></a>
